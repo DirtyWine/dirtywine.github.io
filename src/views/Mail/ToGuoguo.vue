@@ -205,6 +205,18 @@ export default {
             }
           ]
         },
+        {
+          time: "2025 / 11 / 10",
+          messages: [
+            {
+              onLeft: true,
+              content: "This is a test" +
+                  "这是一次测试\n\n" +
+                  "时隔五年啊"
+
+            },
+          ]
+        },
       ]
     }
   },
